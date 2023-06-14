@@ -25,7 +25,7 @@ public class SaleController {
 
 	@GetMapping(value = "/report")
 	public ResponseEntity<?> getReport() {
-		// TODO
+		
 		return null;
 	}
 
