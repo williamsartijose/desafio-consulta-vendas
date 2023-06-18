@@ -3,7 +3,7 @@
 # Sobre o Projeto:
 Desafio de entrega 
 
-![Web 0](https://github.com/williamsartijose/desafio-consulta-vendas/blob/main/DesafioVendas.png)
+![Web 0](https://github.com/williamsartijose/desafio-consulta-vendas/blob/main/DesafioVendass.png)
 
 
 ## Como o trabalho será corrigido?
